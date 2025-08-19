@@ -1,0 +1,6 @@
+Backend Developer with over 4 years of experience, specialized in Node.js, Express.js,
+RESTful APIs, and MongoDB. Having a good exposure on AWS services like Lambda,
+API Gateways, DynamoDB, Lex, etc. Proficient in building scalable, high-performance
+web applications with focus on reliability and efficiency. Skilled in collaborative problem-
+solving, delivering impactful projects on time. Committed to adopting best practices and
+innovative solutions to success.
